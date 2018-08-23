@@ -1,0 +1,65 @@
+body{
+    background: url(https://images.pexels.com/photos/221529/pexels-photo-221529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)no-repeat center center ;
+   }
+   
+   
+   #quote-body{
+     margin:11% auto auto auto;
+     width: 40%;
+     display: grid ;
+     font-weight: bolder ;
+   
+   }
+   #quote{
+     margin-bottom: 0;
+     padding: 25px 25px 0 25px ;
+     font-family: 'Radley',cursive, Georgia, serif;
+     text-align: center;
+     font-size: 1.8em;
+   }
+   .full-quote{
+     background: url(http://www.webdesigndev.com/wp-content/uploads/2015/02/Subtle-Light-Tile-Pattern-Vol2.jpg);
+   
+   }
+   #author{
+     text-align: right;
+     margin-bottom: 0;
+     padding: 20px 25px;
+     font-family: courier;
+     font-size: 1.8em;
+    font-style: italic;
+   }
+   #new-quote{
+     float:left;
+     font-family: 'Tangerine', serif;
+     font-size: 25px;
+     padding: 5px;
+     font-weight: bolder;
+     color: rgb(0,0,0);
+   }
+   #tweet{
+     float:right;
+     margin-right: 10px;
+     color: rgb(0,109,204)
+   }
+   .buttons {
+       padding: 20px  25px;
+     background-color: rgba(228, 228, 228, 0.83);
+   
+   }
+   .footer {
+     text-align:center;
+     font-size:0.8em;
+     color:rgb(20,20,18) ;
+   }
+   .style-it {
+   color: rgb(0,0,0) !important;
+   text-decoration: none !important;
+   }
+   .btn-primary{
+     background-color: rgba(228, 228, 228, 0.83) !important;
+     text-decoration: none !important;
+     border-color: rgba(228, 228, 228, 0.83) !important;
+   
+   }
+   
